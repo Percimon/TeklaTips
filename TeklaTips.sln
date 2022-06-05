@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPartInDrawings", "FindPartInDrawings\FindPartInDrawings.csproj", "{F6987A21-BD84-4F59-900A-9C47E9A32139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6987A21-BD84-4F59-900A-9C47E9A32139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6987A21-BD84-4F59-900A-9C47E9A32139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6987A21-BD84-4F59-900A-9C47E9A32139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6987A21-BD84-4F59-900A-9C47E9A32139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82DB9696-DF02-4081-8122-10B640977BAC}
+	EndGlobalSection
+EndGlobal
