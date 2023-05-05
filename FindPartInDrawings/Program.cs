@@ -13,7 +13,7 @@ namespace FindPartInDrawings
         static void Main(string[] args)
         {
             ViewSearcher();
-            Console.WriteLine("=== results should be the same ===");
+            Console.WriteLine("===== results should be the same =======");
             SheetSearcher();
         }
 
